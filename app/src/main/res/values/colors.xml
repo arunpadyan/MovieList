@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#151930</color>
+    <color name="colorPrimaryDark">#090e26</color>
+    <color name="colorAccent">#3478f6</color>
+    <color name="textColorPrimary">#a3a5af</color>
+    <color name="textColorSecondary">#757575</color>
+
+    <color name="searchBg">#090e26</color>
+    <color name="searchTextColor">#727C92</color>
+    <color name="movieCardBg">#1f2645</color>
+    <color name="bookmarksColor">#c01f2645</color>
+</resources>
